@@ -34,6 +34,9 @@ Explain if any condition codes were actually set, which one(s), and what that
 means for the operation performed (i.e. The "add" instruction cannot affect
 condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
+How is this similar to the program in part 2b?
+What is the name for the arithmetic operation accomplished
+by the "mvn r6,r5" and the next "add r6,1" instructions?
 
 
 2d
