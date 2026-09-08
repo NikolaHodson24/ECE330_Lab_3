@@ -1,4 +1,5 @@
-# 2a
+# part 2
+## 2a
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -10,7 +11,7 @@ means for the operation performed (i.e. The "add" instruction cannot affect
 condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
 
-# 2b
+## 2b
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -23,7 +24,7 @@ condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
 
 
-# 2c
+## 2c
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -39,7 +40,7 @@ What is the name for the arithmetic operation accomplished
 by the "mvn r6,r5" and the next "add r6,1" instructions?
 
 
-# 2d
+## 2d
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -52,7 +53,7 @@ condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
 
 
-# 2e
+## 2e
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -65,7 +66,7 @@ condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
 
 
-# 2f
+## 2f
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -86,7 +87,7 @@ The V bit is set when the ALU result is the opposite sign of both of the
 operands. Explain why that indicates that the result has overflowed the
 number range of the register that it is stored in.
 
-# 3a
+## 3a
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
@@ -98,7 +99,7 @@ means for the operation performed (i.e. The "add" instruction cannot affect
 condition codes, but the adds instruction can set condition codes. You must
 observe the PSR to see if a condition code is actually set!)
 
-# 3b
+## 3b
 Screen capture of emulator session at "all_done" instruction (showing
 source, registers and command windows). Make this screenshot readable!
 Write the formula for the exact arithmetic or logical operation performed by
