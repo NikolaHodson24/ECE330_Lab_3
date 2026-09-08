@@ -1,21 +1,18 @@
 # part 2
 ## 2a
-Screen capture of emulator session at "all_done" instruction (showing
-source, registers and command windows). Make this screenshot readable!
-Write the formula for the exact arithmetic or logical operation performed by
-the program (i.e. r2 = r4 + r5).
-Give a short but complete explanation of what this program does (i.e. - The
-contents of r5 are added to r4 and stored in the destination register r2).
-Explain if any condition codes were actually set, which one(s), and what that
-means for the operation performed (i.e. The "add" instruction cannot affect
-condition codes, but the adds instruction can set condition codes. You must
-observe the PSR to see if a condition code is actually set!)
+### Screen capture of emulator session at "all_done" instruction (showing source, registers and command windows). Make this screenshot readable!
+
+### Write the formula for the exact arithmetic or logical operation performed by the program (i.e. r2 = r4 + r5).
+
+### Give a short but complete explanation of what this program does (i.e. - The contents of r5 are added to r4 and stored in the destination register r2).
+
+### Explain if any condition codes were actually set, which one(s), and what thatmeans for the operation performed (i.e. The "add" instruction cannot affect condition codes, but the adds instruction can set condition codes. You mustobserve the PSR to see if a condition code is actually set!)
+
 
 ## 2b
-Screen capture of emulator session at "all_done" instruction (showing
-source, registers and command windows). Make this screenshot readable!
-Write the formula for the exact arithmetic or logical operation performed by
-the program (i.e. r2 = r4 + r5).
+### Screen capture of emulator session at "all_done" instruction (showing source, registers and command windows). Make this screenshot readable!
+
+### Write the formula for the exact arithmetic or logical operation performed by the program (i.e. r2 = r4 + r5).
 Give a short but complete explanation of what this program does (i.e. - The
 contents of r5 are added to r4 and stored in the destination register r2).
 Explain if any condition codes were actually set, which one(s), and what that
